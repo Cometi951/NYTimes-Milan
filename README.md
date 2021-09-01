@@ -11,12 +11,14 @@ to install and Run
 3. Hands-on Programming
 
 
-# Technology and coding practices
+# Technology and coding practices used
 1. Kotlin - MVVM
 2. Unit Test - espresso, Junit4
 3. Retrofit - API
 4. Dependency Injection - Hilt
-5. AndroidX
-6. Coroutines, LiveData, glide
+5. AndroidX, glide
+6. Coroutines, LiveData, generics functions
 7. Higher Order functions, Scope functions, Extension functions
-8. Null safety, 
+8. inner class, sealed class, data class, override functions, suspend functions
+9. lamda, optional arguments, Singleton, lazy, lateinit, interface
+10. librarys, Null safety, final, const, LinearLayout, TextView, ImageView, FrameLayout, CardView
