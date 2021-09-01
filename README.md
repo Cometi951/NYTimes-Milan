@@ -3,6 +3,7 @@
 to install and Run 
 -> Download zip or copy jusy URL and paste into Android Git.
 -> wait for Gradle build. once build completed just click on Run button with selected Emulator or Device.
+-> for debug and see the API call and response open Logcat in android studio.
 
 
 # What Cover in Project.
