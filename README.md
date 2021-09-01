@@ -2,7 +2,7 @@
 
 to install and Run 
 -> Go to Code and click.
--> Download zip or copy URL (HTTP://...) and paste into and clone into Android studio.
+-> Download zip or copy URL (HTTP://...) and clone into Android studio.
 -> wait for Gradle build. once build completed just click on Run button with selected Emulator or Device.
 -> for debug and see the API call and response open Logcat in android studio.
 
