@@ -1,12 +1,12 @@
 # NY Times - Milan's Exercise
 
 to install and Run 
--> Download zip or copy jusy URL and paste into Android Git.
+-> Download zip or copy just URL and paste into Android Git.
 -> wait for Gradle build. once build completed just click on Run button with selected Emulator or Device.
 -> for debug and see the API call and response open Logcat in android studio.
 
 
-# What Cover in Project.
+# What's Covered in Project.
 1. Low Level Design
 2. Software Development Practices
 3. Hands-on Programming
