@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NY Times - Milan\'s Exercise</string>
+    <string name="milan_s_exercise">Milan\'s Exercise</string>
+    <string name="articles">Articles</string>
+    <string name="detail">Detail page</string>
+    <string name="web">Web page</string>
+</resources>
