@@ -6,10 +6,17 @@ to install and Run
 
 
 # What Cover in Project.
--> Low Level Design
--> Software Development Practices
--> Hands-on Programming
+1. Low Level Design
+2. Software Development Practices
+3. Hands-on Programming
 
 
 # Technology and coding practices
--> 
+1. Kotlin - MVVM
+2. Unit Test - espresso, Junit4
+3. Retrofit - API
+4. Dependency Injection - Hilt
+5. AndroidX
+6. Coroutines, LiveData, glide
+7. Higher Order functions, Scope functions, Extension functions
+8. Null safety, 
